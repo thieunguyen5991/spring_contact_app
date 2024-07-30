@@ -30,7 +30,7 @@
         <sass-maven-plugin.version>1.1.1</sass-maven-plugin.version>
         <servlet-api.version>2.5</servlet-api.version>
 
-        <bootstrap.version>3.3.7</bootstrap.version>
+        <bootstrap.version>3.4.0</bootstrap.version>
         <jquery.version>1.12.4</jquery.version>
 
         <yuicompressor-maven-plugin.version>1.5.1</yuicompressor-maven-plugin.version>
